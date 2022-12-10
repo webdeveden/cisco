@@ -1,0 +1,21 @@
+---
+switch:
+- Id: 1
+  ipaddress: 192.168.1.2
+  dns: 162.4.24.56
+  dns2: 162.4.24.57
+  gateway: 55.66.88.57
+  status: True
+- Id: 2
+  ipaddress: 168.26.28.1
+  dns: 172.1.1.4
+  dns2: 172.1.1.5
+  gateway: 66.77.88.99
+  status: True
+- Id: 3
+  ipaddress: 10.1.0.1
+  dns: 176.1.2.1
+  dns2: 8.8.8.8
+  gateway: 172.6.8.4
+  status: False
+

@@ -1,0 +1,19 @@
+
+{"people":
+    [
+        {
+            "id": "1",
+            "FirstName": "Eden",
+            "LastName": "Abwe",
+            "Email": "edenjardin089@gnmail.com"
+        },
+        {
+            "id":"2",
+            "FirstName": "Benjamin",
+            "LastName": "Finkel",
+            "Email": "benjamni.finkel@gmail.com"
+        }
+    ]
+}
+
+
